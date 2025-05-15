@@ -6,6 +6,13 @@
 ---
 
 > [!NOTE]
+> Páginas de apoyo:
+> [https://helppc.netcore2k.net/topics](https://helppc.netcore2k.net/topics "Página de guía 1")
+> [https://sistel.xp3.biz/](https://sistel.xp3.biz/ "Página de guía 2")
+
+<!-- --- 
+
+> [!NOTE]
 > Nota especial para GitHub + Markdown.
 
 > [!TIP]
@@ -18,7 +25,7 @@
 > Nota especial para GitHub + Markdown.
 
 > [!CAUTION]
-> Nota especial para GitHub + Markdown.
+> Nota especial para GitHub + Markdown. -->
 
 ---
 
