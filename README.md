@@ -7,8 +7,8 @@
 
 > [!NOTE]
 > Páginas de apoyo:
-> [https://helppc.netcore2k.net/topics](https://helppc.netcore2k.net/topics "Página de guía 1")
-> [https://sistel.xp3.biz/](https://sistel.xp3.biz/ "Página de guía 2")
+> - [https://helppc.netcore2k.net/topics](https://helppc.netcore2k.net/topics "Página de guía 1")
+> - [https://sistel.xp3.biz/](https://sistel.xp3.biz/ "Página de guía 2")
 
 <!-- --- 
 
