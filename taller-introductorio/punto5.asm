@@ -64,9 +64,6 @@
             jne CuentaRegresiva
 
             ; Fin del ciclo
-            mov dx, offset msgFin
-            mov ah, 9
-            int 21h
             jmp Salir
 
         ; Etiqueta de error
