@@ -1,7 +1,7 @@
-.model small ; modelo de memoria
-.stack ; segmento de pila
+.model small ; modelo de memoria (64KB de código y 64KB de datos)
+.stack ; segmento de pila (1024 bytes por defecto)
 .data ; segmento de datos
-    valor db 3 ; Declaramos la variable con el valor 3.
+    valor db 3 ; Declaramos la variable con el valor 3 (db: 1 byte)
 .code ; segmento de código
     main PROC ; programa principal
         ; Inicializar segmento de datos
